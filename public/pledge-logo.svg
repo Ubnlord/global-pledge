@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 360" role="img" aria-label="PLEDGE INVEST">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 360" role="img" aria-label="GLOBAL PLEDGE">
 <defs><linearGradient id="brand" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#2563ff"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
 <g transform="translate(18 10)" stroke-linecap="round" stroke-linejoin="round">
 <path d="M190 15 C145 49 92 68 34 77 L34 177 C34 247 91 298 172 333 C253 298 310 247 310 177 L310 77 C252 68 199 49 190 15Z" fill="none" stroke="url(#brand)" stroke-width="20"/>
@@ -6,6 +6,6 @@
 <path d="M78 211 L139 154 L167 174 L245 83" fill="none" stroke="url(#brand)" stroke-width="19"/>
 <path d="M215 76 L270 62 L258 117Z" fill="url(#brand)"/>
 </g>
-<text x="370" y="175" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="122" font-weight="600" letter-spacing="2">PLEDGE INVEST</text>
+<text x="370" y="175" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="122" font-weight="600" letter-spacing="2">GLOBAL PLEDGE</text>
 <text x="470" y="253" fill="#6257ff" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="600" letter-spacing="14">INVESTMENT PLATFORM</text>
 </svg>
