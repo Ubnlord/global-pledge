@@ -1,4 +1,4 @@
-# Pledge Invest
+# Global Pledge
 
 Investor website frontend and Supabase Edge Function API.
 
