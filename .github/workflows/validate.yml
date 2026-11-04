@@ -1,4 +1,4 @@
-name: Validate Pledge Invest (no deployment)
+name: Validate Global Pledge (no deployment)
 
 on:
   push:
