@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
     plugins: [react()],
-    // The custom domain serves the app from the domain root, not /Pledge-Invest/.
-    base: '/',
+    // Relative asset URLs work on both GitHub project Pages paths and custom-domain roots.
+    base: './',
     build: {
         outDir: 'dist',
         sourcemap: false,
