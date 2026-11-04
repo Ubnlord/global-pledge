@@ -253,7 +253,7 @@ export default function Profile({
             >
               <option value="USD">USD — US Dollar (fixed)</option>
             </select>
-            <span className="mt-1 block text-xs text-slate-500">PLEDGE INVEST wallet balances are maintained in USD only.</span>
+            <span className="mt-1 block text-xs text-slate-500">GLOBAL PLEDGE wallet balances are maintained in USD only.</span>
           </label>
         </div>
 
