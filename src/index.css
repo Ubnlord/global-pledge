@@ -10,7 +10,7 @@
 @media (prefers-reduced-motion: reduce) { .market-ticker-track { animation: none; } }
 
 
-/* Pledge Invest — Violet + Dark Navy palette */
+/* Global Pledge — Violet + Dark Navy palette */
 :root {
   --color-primary: #6366F1;
   --color-primary-dark: #4F46E5;
@@ -350,6 +350,6 @@ html[data-theme="light"] .pledge-mobile-nav button {
 html[data-theme="light"] .pledge-mobile-nav button[class*="bg-[#F5EDEF]"] {
   color: #6B2737 !important;
 }
-html[data-theme="dark"] header [aria-label="PLEDGE INVEST home"] span.text-slate-900 {
+html[data-theme="dark"] header [aria-label="GLOBAL PLEDGE home"] span.text-slate-900 {
   color: #f8fafc !important;
 }
